@@ -6,7 +6,7 @@
 
 | Hours Spent |
 |-------------|
-| 7           |
+| 10           |
 
 ---
 
@@ -53,3 +53,25 @@ Note that the stm32u5 is wildly more powerful than the L4, but I really don't kn
 Also, I found [a 2.76v little solar panel](https://www.digikey.it/en/products/detail/anysolar-ltd/SM111K04L/9990435) and a smaller 2V one
 
 [Digikey link for future reference](https://www.digikey.it/en/products/filter/solar-cells/514)
+
+### Edit: Routing pain
+I've decided to use the stm32u5 because of all its juicy features
+
+Never routed a chip like this before though, wish me luck
+![STM32 Viable CPU List](./pics/idea2.webp)
+
+## Day 3: Cyao stop asking me to put an fpga in this thing
+**Date:** 28/05/2025  
+**Hours spent:** ~3
+
+I finally decided a processor to put in this thing, the [STM32U5A5RJT6](https://jlcpcb.com/partdetail/Stmicroelectronics-STM32U5A5RJT6/C22454506), it's an stm32u5, so plenty fast yet can go to sleep really nicely.
+
+Time to read the datasheet, and then figure out how to wire everything up nicely
+
+[datasheet](./pics/cpu.pdf) is in /pics/cpu.pdf
+
+Then I started copying the schematic of the [screen driver board](https://files.waveshare.com/upload/5/5c/2.36inch_e-Paper_Module.pdf) so that I can just plug the screen in nicely.
+
+This took a loong time (not even finished as of now).
+
+![Pcb progress](./pics/pcb1.webp)
