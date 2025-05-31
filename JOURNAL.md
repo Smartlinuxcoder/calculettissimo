@@ -1,12 +1,16 @@
-# Project Journal: Calculettissimo
-
 ---
+title: "calculettissimo"
+author: "Smartlinuxcoder"
+description: "The last calculator you'll ever need!"
+created_at: "2025-05-25"
+---
+# Project Journal: Calculettissimo
 
 ## Hours Spent (so far)
 
-| Hours Spent |
-|-------------|
-| 10           |
+| Hours Spent      |
+|------------------|
+|      ~ 13.5      |
 
 ---
 
@@ -75,3 +79,20 @@ Then I started copying the schematic of the [screen driver board](https://files.
 This took a loong time (not even finished as of now).
 
 ![Pcb progress](./pics/pcb1.webp)
+
+## Day 4: Starting to take shape
+**Date:** 29/05/2025  
+**Hours spent:** ~1.5
+
+Finished the driver board for the screen, I added some footprints for the pieces, now I just need to figure out the necessary pins to connect to the cpu
+
+
+## Day 5: Title
+**Date:** 30/05/2025  
+**Hours spent:** ~2
+
+Finished the driver board for the screen, I added some footprints for the pieces, now I just need to figure out the necessary pins to connect to the cpu
+
+## Edit: connected all pins for the matrix and the screen!
+I also chose [these switches](https://www.digikey.it/it/products/detail/omron-electronics-inc-emc-div/D2LS-10/19202881) because they have cool feedback and are low-profile if we look at normal mouse switches
+

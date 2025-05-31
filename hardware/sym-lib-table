@@ -3,4 +3,5 @@
   (lib (name "2025-05-26_19-37-30")(type "KiCad")(uri "${KIPRJMOD}/STM32U585QII3/KiCADv6/2025-05-26_19-37-30.kicad_sym")(options "")(descr ""))
   (lib (name "6871XX149022_687126149022")(type "KiCad")(uri "${KIPRJMOD}/687126149022/6871XX149022_687126149022.kicad_sym")(options "")(descr ""))
   (lib (name "TXB0108PWR")(type "KiCad")(uri "${KIPRJMOD}/TXB0108PWR/TXB0108PWR.kicad_sym")(options "")(descr ""))
+  (lib (name "RT9193-33GB")(type "KiCad")(uri "${KIPRJMOD}/RT9193_33GB/RT9193-33GB.kicad_sym")(options "")(descr ""))
 )

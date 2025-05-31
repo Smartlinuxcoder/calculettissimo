@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "Connector_Molex")(type "KiCad")(uri "/home/smartcoder/Documenti/code/calculettissimo/Connector_Molex.pretty")(options "")(descr ""))
   (lib (name "687126149022")(type "KiCad")(uri "${KIPRJMOD}/687126149022")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/D2LS_21_20M_/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TXB0108PWR")(type "KiCad")(uri "${KIPRJMOD}/TXB0108PWR")(options "")(descr ""))
+  (lib (name "RT9193_33GB")(type "KiCad")(uri "${KIPRJMOD}/RT9193_33GB")(options "")(descr ""))
 )
